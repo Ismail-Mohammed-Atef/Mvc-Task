@@ -1,0 +1,30 @@
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.staticwebassets.runtime.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.exe
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.deps.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.runtimeconfig.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.dll
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\bin\Debug\net6.0\Depi MVC.pdb
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.AssemblyInfoInputs.cache
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.AssemblyInfo.cs
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.csproj.CoreCompileInputs.cache
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.RazorAssemblyInfo.cache
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.RazorAssemblyInfo.cs
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets\msbuild.Depi MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Depi MVC.props
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Depi MVC.props
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Depi MVC.props
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\scopedcss\bundle\Depi MVC.styles.css
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\scopedcss\projectbundle\Depi MVC.bundle.scp.css
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.dll
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\refint\Depi MVC.dll
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.pdb
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\Depi MVC.genruntimeconfig.cache
+C:\Users\ibrahem\Desktop\Depi MVC\Depi MVC\obj\Debug\net6.0\ref\Depi MVC.dll
